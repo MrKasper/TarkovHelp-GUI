@@ -1,0 +1,256 @@
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.exe.config
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.exe
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.pdb
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.MainForm.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.Properties.Resources.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.GenerateResource.cache
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.exe
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.pdb
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.exe.config
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.exe
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.pdb
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.AssemblyReference.cache
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.MainForm.resources
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.Properties.Resources.resources
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.GenerateResource.cache
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.CoreCompileInputs.cache
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.exe
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.pdb
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestForm.resources
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AddQuest.resources
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\bin\Debug\System.Data.SQLite.dll
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\bin\Debug\System.Data.SQLite.xml
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.CopyComplete
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.ItemsForm.resources
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestCard.resources
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestCardEdit.resources
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestList.resources
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AdminPanel.resources
+C:\Users\adminkoop\Desktop\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AddItem.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AddItem.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AddQuest.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AdminPanel.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.ItemsForm.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestCard.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestCardEdit.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestForm.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestList.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.CopyComplete
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.exe.config
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.exe
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.pdb
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Data.SQLite.dll
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Data.SQLite.xml
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.AssemblyReference.cache
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AddItem.resources
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AddQuest.resources
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AdminPanel.resources
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.ItemsForm.resources
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.MainForm.resources
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.Properties.Resources.resources
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestCard.resources
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestCardEdit.resources
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestForm.resources
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestList.resources
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.GenerateResource.cache
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.CoreCompileInputs.cache
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.CopyComplete
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.exe
+C:\Users\adminkoop\Desktop\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.pdb
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\bin\Debug\TarkovHelp.exe.config
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\bin\Debug\TarkovHelp.exe
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\bin\Debug\TarkovHelp.pdb
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\bin\Debug\System.Data.SQLite.dll
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\bin\Debug\System.Data.SQLite.xml
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.csproj.AssemblyReference.cache
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.AddItem.resources
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.AddQuest.resources
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.AdminPanel.resources
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.ItemsForm.resources
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.MainForm.resources
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.Properties.Resources.resources
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.QuestCard.resources
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.QuestCardEdit.resources
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.QuestForm.resources
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.QuestList.resources
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.csproj.GenerateResource.cache
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.csproj.CoreCompileInputs.cache
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.csproj.CopyComplete
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.exe
+C:\Users\adminkoop\Desktop\Изи сломал\TarkovHelp\obj\Debug\TarkovHelp.pdb
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.exe.config
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.exe
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\TarkovHelp.pdb
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AddItem.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AddQuest.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AdminPanel.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.ItemsForm.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.MainForm.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.Properties.Resources.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestCard.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestCardEdit.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestForm.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.QuestList.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.GenerateResource.cache
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.CopyComplete
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.exe
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.pdb
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Buffers.dll
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Memory.dll
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Buffers.xml
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Memory.xml
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.FleaMarketForm.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AddGun.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AssemblysForm.resources
+C:\Users\Student\Documents\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AssemblyForm.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Buffers.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Memory.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Buffers.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Memory.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AddGun.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AssemblyForm.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.AssemblysForm.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.FleaMarketForm.resources
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Drawing.Common.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Reflection.MetadataLoadContext.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Security.Permissions.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Text.Json.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.ValueTuple.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Reflection.MetadataLoadContext.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Text.Json.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.ValueTuple.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Drawing.Common.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Security.Permissions.xml
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\System.Security.Principal.Windows.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 06.02\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csprojAssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 06.02\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\МДК 06.02\TarkovDev\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.pdb
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\bin\Debug\ConvertApi.dll
+C:\Users\Student\Documents\TarkovHelp\TarkovHelp\obj\Debug\TarkovHelp.csproj.AssemblyReference.cache
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\TarkovHelp.exe.config
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\TarkovHelp.exe
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\TarkovHelp.pdb
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\ConvertApi.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Buffers.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Data.SQLite.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Drawing.Common.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Memory.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Reflection.MetadataLoadContext.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Security.Permissions.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Text.Json.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.ValueTuple.dll
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Buffers.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Data.SQLite.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Drawing.Common.pdb
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Drawing.Common.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Memory.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Reflection.MetadataLoadContext.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Security.Permissions.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Text.Json.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\bin\Debug\System.ValueTuple.xml
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.csproj.AssemblyReference.cache
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.AddGun.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.AddItem.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.AddQuest.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.AdminPanel.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.AssemblyForm.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.AssemblysForm.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.FleaMarketForm.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.ItemsForm.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.MainForm.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.Properties.Resources.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.QuestCard.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.QuestCardEdit.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.QuestForm.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.QuestList.resources
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.csproj.GenerateResource.cache
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.csproj.CoreCompileInputs.cache
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.csproj.CopyComplete
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.exe
+C:\Users\enabl\Desktop\TarkovHelp-GUI\TarkovHelp\obj\Debug\TarkovHelp.pdb
